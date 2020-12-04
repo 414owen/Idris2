@@ -7,7 +7,7 @@ OLD_WIN ?= 0
 
 # Set to 1 to enable line editing and history functions in the Idris2 REPL,
 # and in System.Readline
-READLINE ?= 0
+READLINE ?= 1
 
 ##################################################################
 
